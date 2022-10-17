@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="779b6d42-dd6c-4924-95d2-a0a5ed575852" name="Changes" comment="" />
+    <list default="true" id="779b6d42-dd6c-4924-95d2-a0a5ed575852" name="Changes" comment="Created classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/university/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/university/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/university/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/university/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university/University.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GGCHWgOKZZ7JWjcALnBYxRYTa8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,9 +47,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666005449035</updated>
-      <workItem from="1666005451963" duration="1000" />
+      <workItem from="1666005451963" duration="772000" />
     </task>
+    <task id="LOCAL-00001" summary="Created classes">
+      <created>1666005717589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666005717589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -45,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created classes" />
   </component>
 </project>
