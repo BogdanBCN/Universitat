@@ -1,13 +1,19 @@
 package university;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 public class Student {
     private String name;
     private List<Grade> grades;
 
     public Student(String name, List<Grade> grades) {
-        this.name = name;
+        if (Objects.equals(name, "")) {
+            throw new IllegalArgumentException("Name can't be null string");
+        } else {
+            this.name = name;
+        }
         this.grades = grades;
     }
 
@@ -26,4 +32,5 @@ public class Student {
     public void setGrades(List<Grade> grades) {
         this.grades = grades;
     }
+
 }

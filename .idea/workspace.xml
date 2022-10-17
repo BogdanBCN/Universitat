@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="779b6d42-dd6c-4924-95d2-a0a5ed575852" name="Changes" comment="Created classes">
+    <list default="true" id="779b6d42-dd6c-4924-95d2-a0a5ed575852" name="Changes" comment="Added constructors, getters and setters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/university/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/university/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university/Grade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/university/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university/Professor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/university/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/university/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/university/University.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666005449035</updated>
-      <workItem from="1666005451963" duration="772000" />
+      <workItem from="1666005451963" duration="4132000" />
     </task>
     <task id="LOCAL-00001" summary="Created classes">
       <created>1666005717589</created>
@@ -56,7 +55,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666005717589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added attributes">
+      <created>1666006247768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666006247768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added constructors, getters and setters">
+      <created>1666006425466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666006425466</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +88,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created classes" />
+    <MESSAGE value="Added attributes" />
+    <MESSAGE value="Added constructors, getters and setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added constructors, getters and setters" />
   </component>
 </project>
